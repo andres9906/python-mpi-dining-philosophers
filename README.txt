@@ -18,4 +18,4 @@ Instalation on windows:
 
 Running on windows:
 
--in the command line: > mpiexec -n [Number of process] py [FileName.py] [Number of taks]
+-in the command line: > mpiexec -n [Number of process] py [FileName.py] [Number of tasks]
